@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/GLSL"/>
+    <qresource prefix="/Texture">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+        <file>marble.jpg</file>
+        <file>metal.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>frag.frag</file>
+        <file>ver.vert</file>
+        <file>geo.geom</file>
+        <file>loadingfrag.frag</file>
+        <file>loadingvertex.vert</file>
+        <file>expl.geom</file>
+        <file>normal.geom</file>
+        <file>normalfrag.frag</file>
+        <file>normalvertex.vert</file>
+    </qresource>
+</RCC>

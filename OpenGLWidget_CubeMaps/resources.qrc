@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/GLSL">
+        <file>fragment.frag</file>
+        <file>vertex.vert</file>
+        <file>fragmentlight.frag</file>
+        <file>vertexlight.vert</file>
+        <file>loadingfrag.frag</file>
+        <file>loadingvertex.vert</file>
+        <file>fragmentbasic.frag</file>
+        <file>vertexbasic.vert</file>
+        <file>skycubevertex.vert</file>
+        <file>skycubefrag.frag</file>
+    </qresource>
+    <qresource prefix="/Texture">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+        <file>marble.jpg</file>
+        <file>metal.png</file>
+        <file>skybox/back.jpg</file>
+        <file>skybox/bottom.jpg</file>
+        <file>skybox/front.jpg</file>
+        <file>skybox/left.jpg</file>
+        <file>skybox/right.jpg</file>
+        <file>skybox/top.jpg</file>
+    </qresource>
+</RCC>

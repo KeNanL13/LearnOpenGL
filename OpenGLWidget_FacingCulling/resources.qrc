@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/GLSL">
+        <file>fragment.frag</file>
+        <file>vertex.vert</file>
+        <file>fragmentlight.frag</file>
+        <file>vertexlight.vert</file>
+        <file>loadingfrag.frag</file>
+        <file>loadingvertex.vert</file>
+        <file>fragmentbasic.frag</file>
+        <file>vertexbasic.vert</file>
+        <file>shadersinglecolor.frag</file>
+    </qresource>
+    <qresource prefix="/Texture">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+        <file>marble.jpg</file>
+        <file>metal.png</file>
+        <file>grass.png</file>
+        <file>blending_transparent_window.png</file>
+    </qresource>
+</RCC>

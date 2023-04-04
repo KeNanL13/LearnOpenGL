@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/GLSL">
+        <file>fragment.frag</file>
+        <file>vertex.vert</file>
+        <file>depthShader.frag</file>
+        <file>depthShader.vert</file>
+        <file>debug_quad.frag</file>
+        <file>debug_quad.vert</file>
+    </qresource>
+    <qresource prefix="/Texture">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+        <file>wood.png</file>
+    </qresource>
+</RCC>

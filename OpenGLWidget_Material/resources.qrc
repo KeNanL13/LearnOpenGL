@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/GLSL">
+        <file>fragment.frag</file>
+        <file>vertex.vert</file>
+        <file>fragmentlight.frag</file>
+        <file>vertexlight.vert</file>
+    </qresource>
+</RCC>

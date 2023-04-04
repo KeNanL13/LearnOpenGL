@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/GLSL">
+        <file>fragment.frag</file>
+        <file>vertex.vert</file>
+        <file>fragmentlight.frag</file>
+        <file>vertexlight.vert</file>
+    </qresource>
+    <qresource prefix="/Texture">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+    </qresource>
+</RCC>
